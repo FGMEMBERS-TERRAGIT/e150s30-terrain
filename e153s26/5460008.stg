@@ -1,0 +1,4 @@
+OBJECT_BASE 5460008.btg
+OBJECT YELC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 153.221337 -25.300473 9.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 153.222845 -25.296904 8.4 0.00
